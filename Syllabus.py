@@ -42,7 +42,7 @@ def question_1(answer):
 
 # YOUR SOLUTION HERE
 # Sample incorrect answer
-answer_question_1 = lambda: question_1("A")
+answer_question_1 = lambda: question_1("C")
 
 
 # **Question 2.**
@@ -82,7 +82,7 @@ def question_3(answer):
 
 
 # YOUR SOLUTION HERE
-answer_question_3 = lambda: question_3("B")
+answer_question_3 = lambda: question_3("A")
 
 
 # **Question 4.**
